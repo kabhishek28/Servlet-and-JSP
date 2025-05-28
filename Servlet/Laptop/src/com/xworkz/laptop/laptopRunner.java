@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 @WebServlet(urlPatterns= "/lap",loadOnStartup = 1)
-public class laptopRunner extends GenericServlet {
+public class laptopRunner {
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
 
