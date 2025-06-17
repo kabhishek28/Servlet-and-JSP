@@ -129,7 +129,7 @@
 
                         <!-- 8. Terms Agreement (Boolean) -->
                         <div class="form-check mb-3">
-                            <input class="form-check-input" type="checkbox" id="terms" name="checkName" required>
+                            <input class="form-check-input" type="checkbox" id="terms" name="checkName" required value="true">
                             <label class="form-check-label" for="terms">
                                 I agree to the terms and conditions of hostel accommodation.
                             </label>
